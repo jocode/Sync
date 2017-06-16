@@ -27,7 +27,7 @@ public class ContractParaGastos {
     public static final String SINGLE_MIME = "vnd.android.cursor.item/vnd."+ AUTHORITY + GASTO;
 
     /**
-     * Tipo MIME que retorna la consulta de {@link CONTENT_URI}
+     * Tipo MIME que retorna la consulta de {@link }
      */
     public static final  String MULTIPLE_MIME = "vnd.android.cursor.dir/vnd." + AUTHORITY + GASTO;
 
