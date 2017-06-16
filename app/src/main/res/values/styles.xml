@@ -1,12 +1,11 @@
 <resources>
 
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
+    <style name="AppTheme" parent="Sync.Base"/>
+
+    <style name="Sync.Base" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/primaryColor</item>
         <item name="colorPrimaryDark">@color/primaryDarkColor</item>
         <item name="colorAccent">@color/accentColor</item>
-
         <item name="colorButtonNormal">@color/accentColor</item>
     </style>
 

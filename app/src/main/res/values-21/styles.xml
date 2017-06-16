@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Sync.Base">
+
+        <item name="android:windowContentTransitions" tools:targetApi="lollipop">true</item>
+
+        <item name="android:windowEnterTransition" tools:targetApi="lollipop">@transition/explode</item>
+        <item name="android:windowExitTransition" tools:targetApi="lollipop">@transition/explode</item>
+        <item name="android:windowReenterTransition" tools:targetApi="lollipop">@transition/explode</item>
+        <item name="android:windowReturnTransition" tools:targetApi="lollipop">@transition/explode</item>
+
+    </style>
+
+</resources>
