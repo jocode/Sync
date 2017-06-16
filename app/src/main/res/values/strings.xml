@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Sync</string>
+    <string name="app_name">Syncronización</string>
+
+    <string name="action_sync">Sincronizar</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="account_type">com.example.sync.account</string>
+    <string name="provider_authority">com.example.sync</string>
+
+    <string name="empty_list">No hay datos</string>
+
+    <string name="title_activity_details">Nuevo Gasto</string>
+    <string name="mont_hint">Monto</string>
+    <string name="description_hint">Descripción</string>
+    <string name="etiqueta_title">Etiqueta</string>
+    <string name="fecha_title">Fecha</string>
+    <string-array name="etiquetas">
+        <item>Comida</item>
+        <item>Transporte</item>
+        <item>Diversión</item>
+    </string-array>
+    <string name="boton">AGREGAR GASTO</string>
 </resources>
