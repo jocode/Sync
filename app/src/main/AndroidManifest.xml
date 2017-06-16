@@ -5,6 +5,10 @@
     <!-- Autenticación-->
     <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"></uses-permission>
 
+    <!-- Sincronización -->
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
